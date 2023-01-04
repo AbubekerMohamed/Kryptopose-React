@@ -10,8 +10,8 @@ below are some screenshots:
   <th>HomePage[Mobile]</th>
  </tr>
   <tr>
-    <td> <img src="./screenshots/Kryptopose-news-desktop.png" ></td>
-    <td><img src="./screenshots/Kryptopose-news-mobile.png" ></td>
+    <td> <img src="./screenshots/Kryptopose-home-desktop.png" ></td>
+    <td><img src="./screenshots/Kryptopose-home-mobile.png" ></td>
   </tr>
   <tr>
     <th>Cryptocurrencies[Desktop]</th>

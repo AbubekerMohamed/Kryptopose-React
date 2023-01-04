@@ -35,3 +35,5 @@ below are some screenshots:
     <td><img src="./screenshots/Kryptopose-news-mobile.png"></td>
   </tr>
 </table>
+
+Visit live site @[kryptopose.netlify.app](https://kryptopose.netlify.app/) 

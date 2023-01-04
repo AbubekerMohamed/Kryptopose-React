@@ -10,7 +10,7 @@ const { Text, Title } = Typography;
 const { Option } = Select;
 
 const demoImage =
-  "https://www.bing.com/th?id=OVFT.mpzuVZnv8dwIMRfQGPbOPC&pid=News";
+  "https://upload.wikimedia.org/wikipedia/en/6/60/No_Picture.jpg?20160324051252";
 
 const News = ({ simplified }) => {
   const [newsCategory, setNewsCategory] = useState("Cryptocurrency");

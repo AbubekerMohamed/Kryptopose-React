@@ -119,9 +119,20 @@ a:hover {
     position: fixed;
     width: 100%;
     z-index: 100;
-    background-color: var(--bgSecondary);
+    background: var(--bg-main) !important;
+    background-color: var(--bg-main) !important;
   }
-
+  @media screen and (max-width: 1000px) {
+    .nav-bar {
+      height: 20vh;
+      position: fixed;
+      width: 100%;
+      z-index: 100;
+      color: var(--border);
+      background: var(--bg-main) !important;
+      background-color: var(--bg-main) !important;
+    }
+  }
   .menu-control-container {
     display: block !important;
   }
@@ -135,9 +146,6 @@ a:hover {
   }
   .show-more {
     font-size: 1.3rem !important;
-    background-color: var(--bg-main);
-    border: var(--bg-main);
-    border-radius: 20%;
   }
 }
 

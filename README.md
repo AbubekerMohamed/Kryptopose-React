@@ -10,28 +10,28 @@ below are some screenshots:
   <th>HomePage[Mobile]</th>
  </tr>
   <tr>
-    <td> <img src="./screenshots/Kryptopose-news-desktop.png" width="450" height="700"></td>
-    <td><img src="./screenshots/Kryptopose-news-mobile.png" width="350" height="540"></td>
+    <td> <img src="./screenshots/Kryptopose-news-desktop.png" ></td>
+    <td><img src="./screenshots/Kryptopose-news-mobile.png" ></td>
   </tr>
   <tr>
     <th>Cryptocurrencies[Desktop]</th>
     <th>Cryptocurrencies[Mobile]</th>
   <tr>
-    <td> <img src="./screenshots/Kryptopose-currencies-desktop.png" width="350" height="540"></td>
-    <td><img src="./screenshots/Kryptopose-currencies-mobile.png" width="500" height="700"></td>
+    <td> <img src="./screenshots/Kryptopose-currencies-desktop.png" ></td>
+    <td><img src="./screenshots/Kryptopose-currencies-mobile.png"></td>
   </tr>
   <tr>
     <th>CryptoDetails[Desktop]</th>
     <th>CryptoDetails[Mobile]</th>
   <tr>
-    <td> <img src="./screenshots/Kryptopose-details-desktop.png" width="350" height="540"></td>
-    <td><img src="./screenshots/Kryptopose-details-mobile.png" width="500" height="700"></td>
+    <td> <img src="./screenshots/Kryptopose-details-desktop.png" ></td>
+    <td><img src="./screenshots/Kryptopose-details-mobile.png" ></td>
   </tr>
   <tr>
     <th>CryptoNews[Desktop]</th>
     <th>CryptoNews[Mobile]</th>
   <tr>
-    <td> <img src="./screenshots/Kryptopose-news-desktop.png" width="350" height="540"></td>
-    <td><img src="./screenshots/Kryptopose-news-mobile.png" width="500" height="700"></td>
+    <td> <img src="./screenshots/Kryptopose-news-desktop.png"></td>
+    <td><img src="./screenshots/Kryptopose-news-mobile.png"></td>
   </tr>
 </table>

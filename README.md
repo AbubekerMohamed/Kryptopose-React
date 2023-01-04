@@ -1,7 +1,7 @@
 # Kryptopose-React
 
 A React crypto info and news app to showcase API integration using redux, UI designing using ant design and general best practices for using React.
-
+## Give it a start if you like it.
 below are some screenshots:
 
 <table>
